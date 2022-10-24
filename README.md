@@ -2,7 +2,7 @@
 
 👨‍💻 Cursando Ciência da Computação na Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS).
 
-🕵️‍♂️ Atualmente minha maior força está no back-end. Neste venho atuando e estudando sobre microsserviços, utilizo muito da linguagem java junto do spring boot como principais ferrramentas. Ademais, venho estudando também JUnit, Mockito, ReactJs, JavaScript, e NodeJs. Busco me qualificar como desenvolvedor fullstack, sendo profissional multitarefa que cobre várias frentes, estando habilitado a oferecer um suporte completo forma ativa nas mais diferentes etapas de criação de um projeto.   
+🕵️‍♂️ Atualmente minha maior força está no back-end. Neste venho atuando e estudando sobre microsserviços, utilizo muito da linguagem java junto do spring boot como principais ferrramentas. Também fortaleço meus estudos em JUnit, Mockito, ReactJs, JavaScript, e NodeJs. Busco me qualificar como desenvolvedor fullstack, sendo profissional multitarefa que cobre várias frentes, estando habilitado a oferecer um suporte completo forma ativa nas mais diferentes etapas de criação de um projeto.   
 
 🧙‍♂️ Me considero um profundo pensador criativo e entusiasta por tecnologia.
 
