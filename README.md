@@ -22,8 +22,6 @@ Cursando Ciência da Computação na Pontifícia Universidade Católica do Rio G
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/-C%23-rgb(50%2C%2050%2C%20100)" />
-  <img alt="Figma" src="https://img.shields.io/badge/-Figma-%23933ABE" />
-  
 </p>
 
 
