@@ -8,7 +8,7 @@ Cursando Ciência da Computação na Pontifícia Universidade Católica do Rio G
 
 - 🚀 Tenho interesse em, futuramente, migrar para a área de desenvolvimento de jogos.
 
-##### Onde pode me encontar:
+#### Onde pode me encontar:
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mateuscarvalho99) 
 [<img src = "https://img.shields.io/badge/instagram-%23E6285F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/oak99x/)
