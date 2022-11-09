@@ -2,7 +2,7 @@
 
 <strong>Cursando Ciência da Computação na Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS).</strong>
 
-<img src="https://drive.google.com/file/d/18I0FlX3CC9VEpCOjkfFlb3Vl6AtnMzH_/view?usp=sharing" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
+<img src="img/19362653 [Convertido].png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
 <div>
 
 <p align="left">
