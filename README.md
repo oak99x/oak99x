@@ -2,7 +2,7 @@
 
 <strong>Cursando Ciência da Computação na Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS).</strong>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
 
 <p align="left">
 - 🕵️‍♂️ Atualmente minha maior força está no back-end. Neste venho atuando e estudando sobre microsserviços, utilizo muito da linguagem <strong>Java</strong> junto do <strong>Spring Boot</strong> como principais ferrramentas. Também fortaleço meus estudos em <strong>JUnit, Mockito, ReactJs, JavaScript, e NodeJs</strong>. Busco me qualificar como desenvolvedor fullstack, sendo profissional multitarefa que cobre várias frentes, estando habilitado a oferecer um suporte completo forma ativa nas mais diferentes etapas de criação de um projeto.   
