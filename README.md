@@ -25,5 +25,5 @@ Cursando Ciência da Computação na Pontifícia Universidade Católica do Rio G
 </p>
 
 
-[![Mateus Carvalho's GitHub stats](https://github-readme-stats.vercel.app/api?username=oak99x&show_icons=true&line_height=33&card_width=450&theme=chartreuse-dark&include_all_commits=true&count_private=true)](https://github.com/oak99x)
-![Mateus Carvalho's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oak99x&hide=makefile,c&card_width=380px&langs_count=16&theme=chartreuse-dark&count_private=true)
+[![Mateus Carvalho's GitHub stats](https://github-readme-stats.vercel.app/api?username=oak99xz&show_icons=true&line_height=33&card_width=450&theme=chartreuse-dark&include_all_commits=true&count_private=true)](https://github.com/oak99x)
+![Mateus Carvalho's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oak99xz&hide=makefile,c&card_width=380px&langs_count=16&theme=chartreuse-dark&count_private=true)
