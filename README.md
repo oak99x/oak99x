@@ -2,7 +2,7 @@
 
 <strong>Cursando Ciência da Computação na Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS).</strong>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
+<img src="https://www.instagram.com/p/CZAPy02pv6n/?utm_source=ig_web_copy_link" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
 
 <p align="left">
 - 🕵️‍♂️ Atualmente minha maior força está no back-end. Neste venho atuando e estudando sobre microsserviços, utilizo muito da linguagem <strong>Java</strong> junto do <strong>Spring Boot</strong> como principais ferrramentas. Também fortaleço meus estudos em <strong>JUnit, Mockito, ReactJs, JavaScript, e NodeJs</strong>. Busco me qualificar como desenvolvedor fullstack, sendo profissional multitarefa que cobre várias frentes, estando habilitado a oferecer um suporte completo forma ativa nas mais diferentes etapas de criação de um projeto.   
@@ -16,13 +16,13 @@
 
 <p align="left">
   <a href="mailto:mateus.oak99@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" border="0" width=80px /></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" border="0" /></a>
 
   <a href="https://www.linkedin.com/in/mateuscarvalho99" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" border="0" width=90px /></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" border="0" /></a>
 
   <a href="https://www.instagram.com/oak99x/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" border="0" width=110px /></a>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" border="0" /></a>
 </p>
 
 <br>
