@@ -10,7 +10,6 @@ Cursando Ciência da Computação na Pontifícia Universidade Católica do Rio G
 
 #### Onde pode me encontar:
 
-<p align="left">
   <a href="#" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:mateus.oak99@gmail.com" width=80px /></a>
 
@@ -19,7 +18,6 @@ Cursando Ciência da Computação na Pontifícia Universidade Católica do Rio G
 
   <a href="#" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/oak99x/" width=110px /></a>
-</p>
 
 <br>
 <p align="left">
