@@ -10,8 +10,16 @@ Cursando Ciência da Computação na Pontifícia Universidade Católica do Rio G
 
 #### Onde pode me encontar:
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mateuscarvalho99) 
-[<img src = "https://img.shields.io/badge/instagram-%23E6285F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/oak99x/)
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:mateus.oak99@gmail.com" width=80px /></a>
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateuscarvalho99" width=90px /></a>
+
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/oak99x/" width=110px /></a>
+</p>
 
 <br>
 <p align="left">
