@@ -15,7 +15,7 @@
 </p>
 
 
-#### Onde pode me encontar:
+#### Onde pode me encontar: 
 
 <p align="left">
   <a href="mailto:mateus.oak99@gmail.com" alt="Gmail">
