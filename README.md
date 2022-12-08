@@ -39,5 +39,5 @@
   <img alt="C#" src="https://img.shields.io/badge/-C%23-rgb(50%2C%2050%2C%20100)?style=flat-square&logo=c-sharp&logoColor=white" />
 </p>
 
-[![Mateus Carvalho's GitHub stats](https://github-readme-stats.vercel.app/api?username=oak99x&show_icons=true&line_height=20&card_width=450&theme=midnight-purple&title_color=c760ef&icon_color=c760ef&include_all_commits=true)](https://github.com/oak99x)
+[![Mateus Carvalho's GitHub stats](https://github-readme-stats.vercel.app/api?username=oak99x&show_icons=true&line_height=20&card_width=440&theme=midnight-purple&title_color=c760ef&icon_color=c760ef&include_all_commits=true)](https://github.com/oak99x)
 ![Mateus Carvalho's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oak99x&hide=makefile,batchfile,basic,haskell,dockerfile&card_width=380px&langs_count=16&layout=compact&theme=midnight-purple&title_color=c760ef&icon_color=c760ef)
