@@ -1,5 +1,4 @@
-### Olá, me chamo Mateus Carvalho 🐱‍👤
-#### Desenvolvedor Java
+### Olá, me chamo Mateus Carvalho 🐱‍👤 <br> Desenvolvedor Java
 <br>
 <strong>Cursando Ciência da Computação na Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS).</strong>
 
