@@ -32,6 +32,7 @@
 <p align="left">
   <img alt="Java" src="https://img.shields.io/badge/-Java-d78732?style=flat-square&logo=Java&logoColor=black" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-green?style=flat-square&logo=Spring&logoColor=white" />
+  <img alt="Angular" src="https://img.shields.io/badge/-Angular-dd0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f7de22?style=flat-square&logo=JavaScript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -40,5 +41,5 @@
 </p>
 
 
-[![Mateus Carvalho's GitHub stats](https://github-readme-stats.vercel.app/api?username=oak99x&show_icons=true&line_height=41&card_width=450&theme=midnight-purple&title_color=c760ef&icon_color=c760ef&include_all_commits=true)](https://github.com/oak99x)
+[![Mateus Carvalho's GitHub stats](https://github-readme-stats.vercel.app/api?username=oak99x&show_icons=true&line_height=40&card_width=450&theme=midnight-purple&title_color=c760ef&icon_color=c760ef&include_all_commits=true)](https://github.com/oak99x)
 ![Mateus Carvalho's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oak99x&hide=makefile,batchfile,c,basic,haskell,dockerfile&card_width=380px&langs_count=16&theme=midnight-purple&title_color=c760ef&icon_color=c760ef)
