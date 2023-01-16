@@ -11,7 +11,7 @@
   
 - Me considero um profundo pensador criativo e entusiasta por tecnologia.
 
-- Tenho interesse em, futuramente, migrar para a área de desenvolvimento de jogos.
+- Tenho interesse em, futuramente, migrar para a área de desenvolvimento de jogos. 
 </p>
 
 
