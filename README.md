@@ -11,7 +11,7 @@
   
 - Currently, I have included studies with Angular and React in my routine to complement my knowledge with front-end technologies. In addition to studying English daily to improve my communication in that language.
   
-- I have a greater domain in the language of Java, Spring boot with microservices, database (Oracle, SQL Server and MySQL)
+- I have a greater domain in the language of Java, Spring boot with microservices, database (PostgreSQL, SQL Server and MySQL)
 
 - I am interested in migrating to the game development area in the future.
 </p>
