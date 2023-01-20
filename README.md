@@ -43,5 +43,5 @@
 </p>
 
 
-[![Mateus Carvalho's GitHub stats](https://github-readme-stats-oak.vercel.app/api?username=oak99x&show_icons=true&card_width=430&theme=midnight-purple&title_color=c760ef&icon_color=c760ef&include_all_commits=true)](https://github.com/oak99x)
+[![Mateus Carvalho's GitHub stats](https://github-readme-stats-oak.vercel.app/api?username=oak99x&show_icons=true&card_width=400&theme=midnight-purple&title_color=c760ef&icon_color=c760ef&include_all_commits=true)](https://github.com/oak99x)
 ![Mateus Carvalho's top langs](https://github-readme-stats-oak.vercel.app/api/top-langs/?username=oak99x&hide=makefile,batchfile,shell,basic,haskell,dockerfile&layout=compact&card_width=370px&langs_count=16&theme=midnight-purple&title_color=c760ef&icon_color=c760ef)
