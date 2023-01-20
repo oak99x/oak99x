@@ -1,21 +1,23 @@
-### Olá, me chamo Mateus Carvalho 🐱‍👤 <br> Desenvolvedor Java
+### Hi, I'm Mateus Carvalho 🐱‍👤 <br> Java Developer
 <br>
-<strong>Cursando Ciência da Computação na Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS).</strong>
+<strong>Computer Cience student at PUCRS in Porto Alegre, Brazil.</strong>
 
 <img src="img/19362653 [Convertido].png" min-width="200px" max-width="200px" width="250px" align="right" alt="Computador iuriCode">
 <div>
 
 <p align="left">
   
-- Atualmente minha maior força está no back-end. Neste venho atuando e estudando sobre microsserviços, utilizo muito da linguagem <strong>Java</strong> junto do <strong>Spring Boot</strong> como principais ferrramentas. Também fortaleço meus estudos em <strong>JUnit, Mockito, ReactJs, JavaScript, e NodeJs</strong>. Busco me qualificar como desenvolvedor fullstack, sendo profissional multitarefa que cobre várias frentes, estando habilitado a oferecer um suporte completo forma ativa nas mais diferentes etapas de criação de um projeto. 
+- Currently my biggest strength is in the backend. My way of working combines accuracy and precision with patience, working in the best way focusing on producing quality work so that the result is the best possible. I'm working to qualify as a fullstack developer,  being able to offer complete support actively in the most different stages of creating a project. I consider myself a creative thinker and technology enthusiast.
   
-- Me considero um profundo pensador criativo e entusiasta por tecnologia.
+- Currently, I have included studies with Angular and React in my routine to complement my knowledge with front-end technologies. In addition to studying English daily to improve my communication in that language.
+  
+- I have a greater domain in the language of Java, Spring boot with microservices, database (Oracle, SQL Server and MySQL)
 
-- Tenho interesse em, futuramente, migrar para a área de desenvolvimento de jogos. 
+- I am interested in migrating to the game development area in the future.
 </p>
 
 
-#### Onde pode me encontar: 
+#### Where can you find me:
 
 <p align="left">
   <a href="mailto:mateus.oak99@gmail.com" alt="Gmail">
