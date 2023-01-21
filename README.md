@@ -1,5 +1,5 @@
-### Hi, I'm Mateus Carvalho 🐱‍👤 <br> Java Developer
-<br>
+## Hi, I'm Mateus Carvalho 🐱‍👤 <br> Java Developer
+
 <strong>Computer Cience student at PUCRS in Porto Alegre, Brazil.</strong>
 <img src="img/programmer2.png" width="240px" align="right" alt="dev-cartoon">
 <p align="left">
