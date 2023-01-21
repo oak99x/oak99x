@@ -2,7 +2,7 @@
 <br>
 <strong>Computer Cience student at PUCRS in Porto Alegre, Brazil.</strong>
 
-<img src="img/programmer2.png" min-width="200px" max-width="200px" width="250px" align="right" alt="Computador iuriCode">
+<img src="img/programmer2.png" width="250px" align="right" alt="Computador iuriCode">
 <div>
 
 <p align="left">
