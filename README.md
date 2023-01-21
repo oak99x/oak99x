@@ -5,7 +5,7 @@
 <img src="img/programmer2.png" width="220px" align="right" alt="Computador iuriCode">
 <div>
 
-<p align="left">
+<p >
   
 - Currently my biggest strength is in the backend. My way of working combines accuracy and precision with patience, working in the best way focusing on producing quality work so that the result is the best possible. I'm working to qualify as a fullstack developer,  being able to offer complete support actively in the most different stages of creating a project. I consider myself a creative thinker and technology enthusiast.
   
