@@ -17,7 +17,7 @@
 </p>
 
 
-#### Where can you find me:
+#### Where can you find me: 
 
 <p align="left">
   <a href="mailto:mateus.oak99@gmail.com" alt="Gmail">
