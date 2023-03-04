@@ -34,10 +34,9 @@
   <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-green?style=flat-square&logo=Spring&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-dd0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-fcdc00?style=flat-square&logo=JavaScript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7044A3?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/-C%23-rgb(50%2C%2050%2C%20100)?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-rgb(50%2C%2050%2C%20100)?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
 
