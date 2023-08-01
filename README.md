@@ -45,5 +45,5 @@ If you're looking for someone with energy, dedication, and a touch of humor in t
 </p>
 
 
-[![Mateus Carvalho's GitHub stats](https://github-readme-stats-oak.vercel.app/api?username=oak99x&show_icons=true&card_width=400&theme=algolia&title_color=c760ef&icon_color=c760ef&include_all_commits=true)](https://github.com/oak99x)
-![Mateus Carvalho's top langs](https://github-readme-stats-oak.vercel.app/api/top-langs/?username=oak99x&hide=makefile,batchfile,shell,basic,c,haskell,dockerfile&layout=compact&card_width=370px&langs_count=16&theme=algolia&title_color=c760ef&icon_color=c760ef)
+[![Mateus Carvalho's GitHub stats](https://github-readme-stats-oak.vercel.app/api?username=oak99x&show_icons=true&card_width=400&theme=github_dark&include_all_commits=true)](https://github.com/oak99x)
+![Mateus Carvalho's top langs](https://github-readme-stats-oak.vercel.app/api/top-langs/?username=oak99x&hide=makefile,batchfile,shell,basic,c,haskell,dockerfile&layout=compact&card_width=370px&langs_count=16&theme=github_dark)
