@@ -8,13 +8,12 @@
 
 <p align="left">
 Passionate about games and coding, I've decided to turn a bit of this passion into a profession. I have a good sense of humor, although I'm a bit shy, and I love hands-on activities, especially those games that come in beautiful boxes.
-
   
-- I'm excellent at intensely focusing on projects and bring a unique perspective and extra motivation to succeed.
+📌 I'm excellent at intensely focusing on projects and bring a unique perspective and extra motivation to succeed.
   
-- Currently, I'm studying computer science, and my strongest skill lies in backend development. My approach to work combines precision, patience, and, of course, lots of coffee. My goal is to become a full-stack developer, capable of providing comprehensive support in all stages of a project.
-
-Oh, and I have a special talent for the Java language, Spring Boot framework with microservices, and databases like PostgreSQL and MySQL. After all, I'm a master at making things work behind the scenes!
+📌 Currently, I'm studying computer science, and my strongest skill lies in backend development. My approach to work combines precision, patience, and, of course, lots of coffee. My goal is to become a full-stack developer, capable of providing comprehensive support in all stages of a project.
+  
+🎯 Oh, and I have a special talent for the Java language, Spring Boot framework with microservices, and databases like PostgreSQL and MySQL. After all, I'm a master at making things work behind the scenes!
 
 If you're looking for someone with energy, dedication, and a touch of humor in the world of IT, I'm the right person for the job. 
 
@@ -46,5 +45,5 @@ If you're looking for someone with energy, dedication, and a touch of humor in t
 </p>
 
 
-[![Mateus Carvalho's GitHub stats](https://github-readme-stats-oak.vercel.app/api?username=oak99x&show_icons=true&card_width=400&theme=midnight-purple&title_color=c760ef&icon_color=c760ef&include_all_commits=true)](https://github.com/oak99x)
-![Mateus Carvalho's top langs](https://github-readme-stats-oak.vercel.app/api/top-langs/?username=oak99x&hide=makefile,batchfile,shell,basic,c,haskell,dockerfile&layout=compact&card_width=370px&langs_count=16&theme=midnight-purple&title_color=c760ef&icon_color=c760ef)
+[![Mateus Carvalho's GitHub stats](https://github-readme-stats-oak.vercel.app/api?username=oak99x&show_icons=true&card_width=400&theme=algolia&title_color=c760ef&icon_color=c760ef&include_all_commits=true)](https://github.com/oak99x)
+![Mateus Carvalho's top langs](https://github-readme-stats-oak.vercel.app/api/top-langs/?username=oak99x&hide=makefile,batchfile,shell,basic,c,haskell,dockerfile&layout=compact&card_width=370px&langs_count=16&theme=algolia&title_color=c760ef&icon_color=c760ef)
