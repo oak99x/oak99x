@@ -1,19 +1,23 @@
-### Hi, I'm Mateus Carvalho 🐱‍👤 <br> Java Developer
+### Hi, I'm Mateus Carvalho 🐱‍👤 <br> Backend Developer
 
 <strong>An Computer Cience student at PUCRS in Porto Alegre, Brazil.</strong>
 <img src="img/programmer2.png" width="240px" align="right" alt="dev-cartoon">
 
 <p align="left">
   
-- Currently my biggest strength is in the backend. My way of working combines accuracy and precision with patience, working in the best way focusing on producing quality work so that the result is the best possible. I'm working to qualify as a fullstack developer,  being able to offer complete support actively in the most different stages of creating a project. I consider myself a creative thinker and technology enthusiast.
-  
-- Currently, I include my studies with Angular, Kafka, Scrum, Kubernetes and AWS in my routine to complement my knowledge as a full stack. In addition to studying English daily to improve my communication in that language.
-  
-- I have a greater domain in the language of Java, Spring boot with microservices, database (PostgreSQL, SQL Server and MySQL)
+Passionate about games and coding, I've decided to turn a bit of this passion into a profession. I have a good sense of humor, although I'm a bit shy, and I love hands-on activities, especially those games that come in beautiful boxes.
 
-- I am interested in migrating to the game development area in the future.
+  
+- I'm excellent at intensely focusing on projects and bring a unique perspective and extra motivation to succeed.
+  
+- Currently, I'm studying computer science, and my strongest skill lies in backend development. My approach to work combines precision, patience, and, of course, lots of coffee. My goal is to become a full-stack developer, capable of providing comprehensive support in all stages of a project.
+
+Oh, and I have a special talent for the Java language, Spring Boot framework with microservices, and databases like PostgreSQL and MySQL. After all, I'm a master at making things work behind the scenes!
+
+If you're looking for someone with energy, dedication, and a touch of humor in the world of IT, I'm the right person for the job. 
+
+<strong>Let's build something amazing together!</strong> 
 </p>
-
 
 #### Where can you find me: 
 
