@@ -1,7 +1,7 @@
-### Hi, I'm Mateus
+### Hi, I'm Mateus 🦝
 
 <p align="center">
-  <img width="200" height="200" src="./img/banner.html" alt="my banner">
+  <img width="100%"  src="./img/banner.png" alt="my banner">
 </p>
 
 <strong>An Computer Cience student at PUCRS in Porto Alegre, Brazil.</strong>
