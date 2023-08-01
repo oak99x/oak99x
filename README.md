@@ -1,10 +1,12 @@
-### Hi, I'm Mateus Carvalho 🐱‍👤 <br> Backend Developer
+### Hi, I'm Mateus
+
+<p align=”center”>
+<img width=”200" height=”200" src=”banner.html" alt=”my banner”>
+</p>
 
 <strong>An Computer Cience student at PUCRS in Porto Alegre, Brazil.</strong>
-<img src="img/programmer2.png" width="240px" align="right" alt="dev-cartoon">
 
 <p align="left">
-  
 Passionate about games and coding, I've decided to turn a bit of this passion into a profession. I have a good sense of humor, although I'm a bit shy, and I love hands-on activities, especially those games that come in beautiful boxes.
 
   
