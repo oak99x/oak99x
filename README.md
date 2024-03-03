@@ -40,4 +40,4 @@ If you're looking for someone with energy, dedication, and a touch of humor in t
 
 
 [![Mateus Carvalho's GitHub stats](https://github-readme-stats-oakv3.vercel.app/api?username=oak99x&show_icons=true&card_width=400&theme=github_dark&include_all_commits=true)](https://github.com/oak99x)
-![Mateus Carvalho's top langs](https://github-readme-stats-oakv3.vercel.app/api/top-langs/?username=oak99x&hide=makefile,batchfile,assembly,c,shell,basic,yacc,roff,perl,dockerfile&layout=compact&card_width=370px&langs_count=16&theme=github_dark)
+![Mateus Carvalho's top langs](https://github-readme-stats-oakv3.vercel.app/api/top-langs/?username=oak99x&hide=makefile,batchfile,assembly,shell,basic,yacc,roff,perl,dockerfile&layout=compact&card_width=370px&langs_count=16&theme=github_dark)
