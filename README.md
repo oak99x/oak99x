@@ -32,10 +32,14 @@ If you're looking for someone with energy, dedication, and a touch of humor in t
   <img alt="Java" src="https://img.shields.io/badge/-Java-d78732?style=flat-square&logo=Java&logoColor=black" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-green?style=flat-square&logo=Spring&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-dd0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-fcdc00?style=flat-square&logo=JavaScript&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-0e76a8?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-fcdc00?style=flat-square&logo=JavaScript&logoColor=white" />
+  <img alt="TypeScript" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" />
+  <img alt="React" src="https://img.shields.io/badge/-React-black?logo=react&style=flat-square" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-0e76a8?style=flat-square&logo=docker&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-0e76a2?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
 
